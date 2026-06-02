@@ -9,7 +9,7 @@ import yt_dlp
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = "8658679570:AAETJgkb4LObHEAHc1mMhoVed3G4n8D4CEw"
+TOKEN = "8747694939:AAEva3DI0PxDYTxdzdsWTY4BLpCc408JlUM"
 DOWNLOAD_DIR = "downloads"
 
 def download_video(url):
